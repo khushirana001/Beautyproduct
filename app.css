@@ -48,7 +48,7 @@
   /* Hero */
   .hero {
     background: url('https://source.unsplash.com/1600x600/?makeup,beauty') no-repeat center center/cover;
-    color: white;
+    color: rgb(64, 63, 63);
     text-align: center;
     padding: 5rem 2rem;
   }
@@ -63,7 +63,7 @@
     margin-top: 1rem;
     padding: 12px 24px;
     background-color: #ff69b4;
-    color: rgb(148, 144, 144);
+    color: rgb(43, 41, 41);
     border: none;
     text-decoration: none;
     border-radius: 6px;
